@@ -1,0 +1,9 @@
+E:\SALMAN SABBIR\2015-5(May)-11\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+E:\SALMAN SABBIR\2015-5(May)-11\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+E:\SALMAN SABBIR\2015-5(May)-11\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+E:\SALMAN SABBIR\2015-5(May)-11\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojResolveAssemblyReference.cache
+E:\SALMAN SABBIR\2015-5(May)-11\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.SalaryCalculatorUI.resources
+E:\SALMAN SABBIR\2015-5(May)-11\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+E:\SALMAN SABBIR\2015-5(May)-11\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache
+E:\SALMAN SABBIR\2015-5(May)-11\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+E:\SALMAN SABBIR\2015-5(May)-11\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
